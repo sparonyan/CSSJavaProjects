@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+CSSJavaProjects.iml
+GameOfLife/.DS_Store
+GameOfLife/GameOfLife.iml
+GameOfLife/src/.DS_Store
+GameOfLife/src/csc143/.DS_Store
+GameOfLife/src/csc143/gol/.DS_Store
+out
+src/
