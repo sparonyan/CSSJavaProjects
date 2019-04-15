@@ -6,12 +6,11 @@ import java.awt.event.*;
 import java.awt.event.MouseEvent;
 
 /**
- * PA2: Game of Life, Graphical Interface;
+ * Game of Life, Graphical Interface;
  * <p>The class represents csc143.gol.GameOfLifeBoard object, which provides the graphical user interface
  * and control for the Game Of Life.
  *
  * @author Satine Paronyan
- * @version Challenge
  */
 public class GameOfLifeBoard extends JPanel implements ActionListener, MouseListener, java.util.Observer {
 

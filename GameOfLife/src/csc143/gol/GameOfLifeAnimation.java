@@ -7,10 +7,9 @@ import javax.swing.*;
 /**
  * This class supports the use of threads for Game Of Life animation.
  * <p>
- * Programming Assignment 5: Game of Life, Animation
+ * Game of Life, Animation
  *
  * @author Satine Paronyan
- * @version Standard
  *
  */
 public class GameOfLifeAnimation implements Runnable {

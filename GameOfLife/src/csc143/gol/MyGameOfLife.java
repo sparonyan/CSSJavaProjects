@@ -3,14 +3,13 @@ package csc143.gol;
 import java.io.*;
 
 /**
- * Programming Assignment 7: Game of Life, Serialization and Final Submission
+ * Game of Life, Serialization
  * <p>
- * The class represents csc143.gol.MyGameOfLife object that holds and updates the
+ * The class represents MyGameOfLife object that holds and updates the
  * status of the cellular automaton game. This class contains constructor and
  * overridden methods such as getCellState, setCellState, nextGeneration, toString.
  *
  * @author Satine Paronyan
- * @version ChallengePA1, StandardPA7
  */
 public class MyGameOfLife extends java.util.Observable implements GameOfLife,
         GoBoardConstants {

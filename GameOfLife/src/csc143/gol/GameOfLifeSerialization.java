@@ -8,13 +8,12 @@ import javax.swing.*;
 import javax.swing.filechooser.FileFilter;
 
 /**
- * Programming Assignment 7: Game of Life, Serialization and Final Submission
+ * Game of Life, Serialization
  * <p>
  * Represents the user interface of Game Of Life. This class supports the use of threads for
  * Game Of Life animation and has ability of saving and recalling the state of this object.
  *
  * @author Satine Paronyan
- * @version Standard Level
  */
 public class GameOfLifeSerialization implements Runnable {
     // the model of Game Of Life

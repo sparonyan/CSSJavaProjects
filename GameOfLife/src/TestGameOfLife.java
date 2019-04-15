@@ -7,8 +7,6 @@ import javax.swing.*;
  * This class initializes a new game, sets some cells on the board to state ALIVE
  * and test the game to make sure the program works properly.
  *
- * @author Daniel Jinguji
- *
  * @author Satine Paronyan
  */
 public class TestGameOfLife {
